@@ -55,7 +55,7 @@ Folder Icons is a lightweight macOS utility designed to help users easily custom
 
 ## 🖼 Preview
 
-![Folder Icons Thumbnail](https://www.figma.com/community/resource/13eeeb8c-0357-46b1-a45f-367e8f9100d8/thumbnail)  
+![Folder Icons Thumbnail](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0TmsIQSlR341gVdQw5lvMRRX6sg4FsfGslQ&s)  
 ![Folder Icons Icon Set](https://una.github.io/gradient-folders/img/icon-folder-set.png)
 
 ---
